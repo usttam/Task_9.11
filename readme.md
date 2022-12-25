@@ -1,4 +1,4 @@
-# Generator of random user data: full name, gender, date of birth and profession..
+# Generator of random user data: full name, gender, date of birth and profession.
 
 Developed as a practical task on the course '_Full-stack developer'_
 ---
